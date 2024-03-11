@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/bisal_files"
-bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
+bot_name = "sᴛʀᴇᴀᴍ ʙᴏᴛ"
+bisal_channel = "https://t.me/deathking_botworld"
+bisal_grp = "https://t.me/deathchatting_world"
 
 class Var(object):
     MULTI_CLIENT = False
