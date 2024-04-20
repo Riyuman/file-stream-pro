@@ -245,7 +245,7 @@ async def cb_handler(client, query):
     elif data == "aboutDev":
         # please don't steal credit
         await query.message.edit_caption(
-            caption=f"<b>ᴊᴀɪ sʜʀᴇᴇ ᴋʀsɴᴀ ᴅᴇᴀʀ...\nɪᴍ <a href='https://t.me/TryToLiveAlon'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>\nɪ ᴡᴀꜱ ᴍᴀᴅᴇ ᴛᴏ ᴜꜱᴇ ᴡɪᴛʜ ᴍʏ<a href='https://t.me/Deathmovie_hub'>ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ</a>..\n\nGɪᴛʜᴜʙ : <a href='https://t.me/TryToLiveAlon'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a></b>",
+            caption=f"<b>ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴅᴇᴀʀ...\nɪᴍ <a href='https://t.me/TryToLiveAlon'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>\nɪ ᴡᴀꜱ ᴍᴀᴅᴇ ᴛᴏ ᴜꜱᴇ ᴡɪᴛʜ ᴍʏ <a href='https://t.me/Deathmovie_hub'>ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ</a>..\n\nGɪᴛʜᴜʙ : <a href='https://t.me/TryToLiveAlon'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a></b>",
             reply_markup=InlineKeyboardMarkup(
                 [[ 
                      InlineKeyboardButton("ʜᴏᴍᴇ", callback_data="start"),
