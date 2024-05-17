@@ -16,7 +16,7 @@
     "repository": "https://github.com/Riyuman/file-stream-pro/",
     "success_url": "/",
     "logo": "https://i.postimg.cc/jjgVnXrV/20231106-110427.png",
-    "website": "https://telegram.me/File_to_link_Nick_Bot",
+    "website": "https://nick-file-to-link-1c590224d7d3.herokuapp.com/",
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",
