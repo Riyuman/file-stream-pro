@@ -21,15 +21,14 @@ MY_PASS = os.environ.get("MY_PASS", None)
 pass_dict = {}
 pass_db = Database(Var.DATABASE_URL, "ag_passwords")
 
-msg_text ="""<b>‣ ʏᴏᴜʀ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ Bʏ:➲ @Oogo_Nick! 😎
-
+msg_text ="""<b>‣ ʏᴏᴜʀ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ Bʏ:➲ @Oogo_Nick!
 ‣ Fɪʟᴇ ɴᴀᴍᴇ : <i>{}</i>
 ‣ Fɪʟᴇ ꜱɪᴢᴇ : {}
 
 ♻️ <a href="{}">𝗙𝗔𝗦𝗧 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗</a>
 🌐 <a href="{}">𝗪𝗔𝗧𝗖𝗛 𝗢𝗡𝗟𝗜𝗡𝗘</a>
 
-‣ ɢᴇᴛ <a href="http://t.me/M_P_G_File_Provider_Bot">ᴍᴏʀᴇ ғɪʟᴇs</a></b> 🤡"""
+‣ ɢᴇᴛ <a href="http://t.me/M_P_G_File_Provider_Bot">ᴍᴏʀᴇ ғɪʟᴇs |𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞|⬅️</a></b> 🤡"""
 
 
 
